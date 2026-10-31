@@ -87,6 +87,8 @@ int main()
 
 
 
+
+
 OUTPUT:
 Enter number of students: 3
 Enter 3 marks: 32 33 45
