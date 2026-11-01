@@ -49,11 +49,3 @@ int main()
 
 
 
-OUTPUT:
-Enter number of students to admit: 2
-Enter ID, Name, CGPA of student 1: 1 SURESH 5
-Enter ID, Name, CGPA of student 2: 2 KUMAR 9
-
-ID     Name            CGPA  
-1      SURESH          5.00  
-2      KUMAR           9.00  
