@@ -89,11 +89,3 @@ int main()
 
 
 
-OUTPUT:
-Enter number of students: 3
-Enter 3 marks: 32 33 45
-Marks List: 32 33 45 
-Enter position and marks to insert: 2 44 
-After Insertion -> Marks List: 32 33 44 45 
-Enter position to delete: 1 
-After Deletion  -> Marks List: 32 44 45 
